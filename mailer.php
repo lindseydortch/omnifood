@@ -12,7 +12,7 @@
         exit;
     }
 
-    // Set the recipient email address. Update this to YOUR desired email address.
+    // Set the recipient email address.  Update this to YOUR desired email address.
     $recipient = "codewithlinds@gmail.com";
 
     // Set the email subject.
